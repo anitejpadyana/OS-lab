@@ -1,3 +1,5 @@
 # OS-lab
 
-ANITEJ PADYANA |  1WN24CS042
+|:--|:--|
+| **Name** | Anitej Padyana |
+| **USN** | 1WN24CS042 |
